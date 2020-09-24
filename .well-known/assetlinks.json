@@ -5,7 +5,7 @@
 },{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target" : { "namespace": "android_app", "package_name": "io.github.mki1967.mkisg",
-                   "sha256_cert_fingerprints": ["99:7D:FD:32:30:7F:20:31:D0:AF:79:59:E6:37:8F:34:2C:3C:09:49:62:11:4D:C7:49:DC:BA:12:69:63:56:25"] }
+                   "sha256_cert_fingerprints": ["C8:58:31:DD:13:05:BC:FA:88:70:FD:52:9A:AF:C5:45:E3:90:44:73:39:F4:3E:69:C3:45:84:53:57:F8:92:16"] }
 },{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target" : { "namespace": "android_app", "package_name": "io.github.mki1967.mkisg",
